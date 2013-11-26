@@ -1,4 +1,4 @@
-# PHP Extension library
+# PHP Extension load library
 
 This extension allows load library.
 
